@@ -1,2 +1,2 @@
-Day 1: begin learning git.
+Day 1: began learning git and version control today.
 Day 2: learned about staging and committing.
