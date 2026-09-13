@@ -1,2 +1,2 @@
-Day 1: learning git version control.
+Day 1: begin learning git.
 Day 2: learned about staging and committing.
