@@ -1,2 +1,3 @@
 - Practice branching
 - Practice merge conflicts
+- Practice undoing mistakes
